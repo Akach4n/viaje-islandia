@@ -3,8 +3,8 @@ nav{
 }
 #mycarousel {
     width: 1300px;
-    margin-bottom: 10px;
     margin: 0 auto;
+    margin-bottom: 10px;
 }
 
 @media screen and (max-width:775.98px) {
