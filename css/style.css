@@ -1,0 +1,23 @@
+nav{
+    font-family: Copperplate, Papyrus, fantasy;
+}
+#mycarousel {
+    width: 1300px;
+    margin-bottom: 10px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width:775.98px) {
+    iframe {
+        width: 360px;
+    }
+
+    #mycarousel {
+        width: 400px;
+        height: 300px;
+    }
+
+
+
+
+}
